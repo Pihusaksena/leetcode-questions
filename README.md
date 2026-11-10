@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Pihusaksena/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pihusaksena/leetcode-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pihusaksena/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pihusaksena/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
