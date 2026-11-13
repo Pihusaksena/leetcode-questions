@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pihusaksena/leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Pihusaksena/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Pihusaksena/leetcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
