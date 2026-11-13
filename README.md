@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Pihusaksena/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Pihusaksena/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pihusaksena/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Pihusaksena/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pihusaksena/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
