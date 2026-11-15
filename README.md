@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pihusaksena/leetcode-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pihusaksena/leetcode-questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Enumeration
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -148,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
