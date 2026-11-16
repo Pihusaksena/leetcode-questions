@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -139,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
