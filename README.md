@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Monotonic Stack
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
