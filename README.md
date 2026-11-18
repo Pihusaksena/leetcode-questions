@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Monotonic Stack
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -177,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
