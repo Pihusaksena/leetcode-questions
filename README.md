@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pihusaksena/leetcode-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
