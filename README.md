@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
@@ -119,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pihusaksena/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Pihusaksena/leetcode-questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Monotonic Stack
@@ -193,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
