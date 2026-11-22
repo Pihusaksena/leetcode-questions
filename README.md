@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pihusaksena/leetcode-questions/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Pihusaksena/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
