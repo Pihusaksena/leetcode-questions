@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
+| [0228-summary-ranges](https://github.com/Pihusaksena/leetcode-questions/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
