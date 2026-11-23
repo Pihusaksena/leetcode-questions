@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pihusaksena/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
