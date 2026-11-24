@@ -204,10 +204,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pihusaksena/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Pihusaksena/leetcode-questions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Pihusaksena/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0226-invert-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pihusaksena/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
