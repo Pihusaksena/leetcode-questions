@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pihusaksena/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Pihusaksena/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pihusaksena/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pihusaksena/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Pihusaksena/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pihusaksena/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0415-add-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
