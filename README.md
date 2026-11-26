@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Pihusaksena/leetcode-questions/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pihusaksena/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pihusaksena/leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pihusaksena/leetcode-questions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pihusaksena/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Pihusaksena/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting Sort
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Pihusaksena/leetcode-questions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Pihusaksena/leetcode-questions/tree/master/0401-binary-watch) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
