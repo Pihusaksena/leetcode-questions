@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Pihusaksena/leetcode-questions/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Pihusaksena/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pihusaksena/leetcode-questions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Pihusaksena/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Pihusaksena/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0492-construct-the-rectangle) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pihusaksena/leetcode-questions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Pihusaksena/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pihusaksena/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Pihusaksena/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pihusaksena/leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
