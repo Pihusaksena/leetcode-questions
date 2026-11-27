@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Pihusaksena/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pihusaksena/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pihusaksena/leetcode-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Pihusaksena/leetcode-questions/tree/master/0228-summary-ranges) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pihusaksena/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Pihusaksena/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pihusaksena/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pihusaksena/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
